@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+:root {
+  background-color: #f5f5f5;
+}
+
+.testSection {
+  padding: 20px;
+  width: 80%;
+}
+
+.box {
+  background-color: #fefefe;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid rgba(215, 108, 108, 0.386);
+  border-radius: 10px;
+}
+p:last-child {
+  text-align: right;
+  font-style: italic;
+}
